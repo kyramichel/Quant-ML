@@ -29,7 +29,7 @@ This repository explores machine learning from a quantitative perspective, focus
 For a deeper dive into some of the mathematical ideas behind this work:
 
 - Functional Gradient Learning in ML & AI
-[https://www.amazon.com/dp/B0FL1HH71P](https://www.amazon.com/dp/B0FL1HH71P)
+[Functional Gradient Learning Book.pdf](https://github.com/ml-ai-lab/My-Bookshelf/blob/main/FUNCTIONAL%20GRAD%20DECENT%20KYRA%20MICHEL.pdf)
 
 ---
 
